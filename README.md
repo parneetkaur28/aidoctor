@@ -1,10 +1,10 @@
-# 🧠 AI Doctor with Vision and Voice 🤖🩺
+# AI Doctor with Vision and Voice
 
 An intelligent generative AI application that acts like a virtual doctor — accepting **images of physical issues** (like injuries or skin conditions) and **voice-based questions** to generate medical-like advice using state-of-the-art multimodal LLMs. The application is powered by **Gradio**, **Groq’s LLaMA 4**, and **gTTS**.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 📸 **Image Analysis**: Upload an image of your injury, scar, or visible medical issue.
 - 🎙️ **Voice Input**: Ask your health-related question using your voice.
@@ -14,7 +14,7 @@ An intelligent generative AI application that acts like a virtual doctor — acc
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component     | Description                                           |
 |---------------|-------------------------------------------------------|
@@ -25,7 +25,7 @@ An intelligent generative AI application that acts like a virtual doctor — acc
 
 ---
 
-## 📦 Installation
+## Installation
 
 -Clone the repository or download as zip and create a virtual environment to install packages from piplock file for exact versions.
 
