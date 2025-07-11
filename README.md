@@ -28,7 +28,9 @@ An intelligent generative AI application that acts like a virtual doctor — acc
 ## 📦 Installation
 
 -Clone the repository or download as zip and create a virtual environment to install packages from piplock file for exact versions.
+
 -Set up the environment variables- Groq API key and ElevenLabs API key(if used).
+
 -Verify the LLM model being used is not depricated.
 
 Then use -
